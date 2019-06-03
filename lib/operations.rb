@@ -7,6 +7,7 @@ else speed == 50
   return "false"
   binding.pry
 end
+end
 
 
 
